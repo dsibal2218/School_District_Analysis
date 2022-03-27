@@ -6,11 +6,11 @@ Overview: We were given two datasets to review and analyze. The first dataset ha
 
 1. Using the Pandas loc method with conditional statements and comparison and logical operators, select the ninth-grade reading and math scores for Thomas High School. Then, use the Pandas NumPy module to change the reading and math scores to NaN.
 
-2. Perform the following analysis and compare it to the one we did during class module:
-    a.  The district summary: We will have to recalculate the total student count by subtracting the number of ninth grade students in Thomas High School 
-        from the total student count, then you'll recalculate the passing math and passing reading percentages, and the overall passing percentage with
-        the recalculated total student count.
+![Screen Shot 2022-03-27 at 2 13 04 PM](https://user-images.githubusercontent.com/98235755/160294869-81c5e968-f4e8-44d9-92b3-9fb62be92bb3.png)
 
+
+2. Perform the following analysis and compare it to the initial analuysis we did during class module:
+  
     a.  The district summary: We will have to recalculate the total student count by subtracting the number of ninth grade students in Thomas High School from the total student count, then we'll recalculate the passing math and passing reading percentages, and the overall passing percentage with the recalculated total student count.
     
     
